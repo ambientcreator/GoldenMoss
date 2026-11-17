@@ -78,6 +78,11 @@ System reduced motion also stops wallpaper animation. To stop a single effect, s
 }
 ```
 
+## Credits
+ - Theme / CSS: Washed
+ - Background artwork / concept: Add artist or source here, if applicable
+ - If the background artwork is based on third-party work, make sure you have permission to use and redistribute it, and provide proper attribution.
+
 [Русский ↓](#русский) · [Back to top ↑](#golden-moss)
 
 ---
@@ -144,5 +149,8 @@ Golden Moss оформляет Discord в тёплых оливковых тон
   --gm-font-scale: 1.05;
 }
 ```
+
+Авторы
+Тема / CSS: Washed
 
 [English ↑](#english) · [К началу ↑](#golden-moss)
