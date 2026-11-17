@@ -21,7 +21,7 @@
 
 Golden Moss gives Discord translucent olive panels, warm text, and golden light over pixel-textured forest ruins. The theme includes mist, sunbeams, floating dust, fireflies, and a pair of blinking eyes in a tree hollow. **Full** also adds an occasional falling leaf.
 
-The CSS contains the 2560 × 1440 lossless wallpaper and works offline with its default settings. [Download the wallpaper separately](./GoldenMoss.webp)
+The CSS contains the 2560 × 1440 lossless wallpaper and works offline with its default settings. [Download the wallpaper separately](./GoldenMoss_original.png)
 
 ### Installation
 
