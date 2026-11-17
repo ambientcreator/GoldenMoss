@@ -80,8 +80,6 @@ System reduced motion also stops wallpaper animation. To stop a single effect, s
 
 ## Credits
  - Theme / CSS: Washed
- - Background artwork / concept: Add artist or source here, if applicable
- - If the background artwork is based on third-party work, make sure you have permission to use and redistribute it, and provide proper attribution.
 
 [Русский ↓](#русский) · [Back to top ↑](#golden-moss)
 
