@@ -7,11 +7,11 @@
   <a href="./GoldenMoss.theme.css">Download 1.4.3 · Скачать 1.4.3</a>
 </p>
 
-[![Golden Moss server chat with olive panels over forest ruins](./previews/server-chat.jpg)](./previews/server-chat.jpg)
+[![Golden Moss server chat with olive panels over forest ruins](./previews/server-chat.jpg)](./previews/server-chat.webp)
 
 | Friends · Друзья | Direct messages · Личные сообщения |
 | --- | --- |
-| [![Friends list and activity sidebar in Golden Moss](./previews/friends.webp)](./previews/friends.jpg) | [![Direct messages and a user profile in Golden Moss](./previews/direct-messages.webp)](./previews/direct-messages.jpg) |
+| [![Friends list and activity sidebar in Golden Moss](./previews/friends.jpg)](./previews/friends.webp) | [![Direct messages and a user profile in Golden Moss](./previews/direct-messages.jpg)](./previews/direct-messages.jpg) |
 
 *Previews use Full mode and fictional servers, profiles, and messages. / На превью включён Full, а серверы, профили и сообщения вымышлены.*
 
